@@ -41,6 +41,13 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
+## Cool music to code
+<a href="https://www.youtube.com/watch?v=4kLviL8XwAI" target="_blank">
+  <img src="https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg" alt="lofi code boy" width="90" height="70"/>
+</a>
+
+<br/>
+<br/>
 
 <img src="https://media.tenor.com/5jx0ZD6U1ZIAAAAC/keyboard-computer.gif" alt="Literalmente yo" width="750px" height="450px">
 
