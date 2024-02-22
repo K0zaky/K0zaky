@@ -13,12 +13,6 @@
 
 <h4>I like scarecrows.</h4>
 
-<!-- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K0zaky&theme=blue-green"/>
-</p>
--->
-
 ## I enjoy:
 ![SCP](https://img.shields.io/badge/SCP%20Foundation-%23000000?style=for-the-badge&logo=SCP%20Foundation&logoColor=white)
 
@@ -41,13 +35,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-darkblue?style=for-the-badge&logo=powershell&logoColor=white)
 
 
-<!-- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0zaky&theme=blue-green"/>
-</p>
--->
-
-
 <br/>
 
 ## I work with:
@@ -68,9 +55,37 @@
 </a>
 
 <br/>
+<hr/>
 <br/>
 
-<img src="https://media.tenor.com/5jx0ZD6U1ZIAAAAC/keyboard-computer.gif" alt="Literalmente yo" width="750px" height="450px">
+<p align="center">
+  <a href="https://github.com/K0zaky">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=K0zaky&theme=ocean_dark&border=7F3FBF&background=0D1117" alt="K0zaky's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/K0zaky">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0zaky&theme=ocean_dark" alt="K0zaky's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/K0zaky">
+      <img alt="K0zaky's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=K0zaky&show_icons=true&count_private=true&theme=ocean_dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/K0zaky">
+    <img alt="K0zaky's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=K0zaky&langs_count=8&layout=compact&theme=ocean_dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=K0zaky&custom_title=K0zaky's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://media.tenor.com/5jx0ZD6U1ZIAAAAC/keyboard-computer.gif" alt="Literalmente yo" width="750px" height="450px">
+</p>
 
 <hr>
 
