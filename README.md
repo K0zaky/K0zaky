@@ -13,6 +13,12 @@
 
 <h4>I like scarecrows.</h4>
 
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K0zaky&theme=blue-green"/>
+</p>
+-->
+
 ## I enjoy:
 ![SCP](https://img.shields.io/badge/SCP%20Foundation-%23000000?style=for-the-badge&logo=SCP%20Foundation&logoColor=white)
 
@@ -33,6 +39,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-darkblue?style=for-the-badge&logo=powershell&logoColor=white)
+
+
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0zaky&theme=blue-green"/>
+</p>
+-->
+
+
+<br/>
 
 ## I work with:
 ![LinuxMint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
