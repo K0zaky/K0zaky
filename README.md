@@ -2,6 +2,12 @@
   Hello there, I'm David
 </h1>
 
+<br/>
+
+<p align="center">
+  <img src="https://media.tenor.com/5jx0ZD6U1ZIAAAAC/keyboard-computer.gif" alt="Literalmente yo" width="750px" height="450px">
+</p>
+
 <!-- About Section -->
  # About me
  
@@ -81,11 +87,7 @@
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=K0zaky&custom_title=K0zaky's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
-<br/>
 
-<p align="center">
-  <img src="https://media.tenor.com/5jx0ZD6U1ZIAAAAC/keyboard-computer.gif" alt="Literalmente yo" width="750px" height="450px">
-</p>
 
 <hr>
 
