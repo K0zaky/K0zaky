@@ -32,7 +32,7 @@
 
 ## I code in:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ffa500?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,8 +46,11 @@
 ## I work with:
 ![LinuxMint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=PyCharm&logoColor=white)
+![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge&logo=symfony&logoColor=white)
+![PyCharm](https://img.shields.io/badge/Pycharm-yellow?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Cool music for coding
