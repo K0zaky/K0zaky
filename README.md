@@ -28,8 +28,6 @@
 <br/>
 
 
-## <span style="color:white"> Currently studying:</span>&nbsp; `DAM`
-
 ## I code in:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
